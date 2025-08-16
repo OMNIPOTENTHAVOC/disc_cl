@@ -57,17 +57,11 @@ Designed for safe and efficient removal of duplicate and junk files across multi
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Author
 
 Siddhansh Srivastava
-sri.siddhansh@gmail.com
-github.com/OMNIPOTENTHAVOC
+- sri.siddhansh@gmail.com
+- github.com/OMNIPOTENTHAVOC
 
 ---
 
