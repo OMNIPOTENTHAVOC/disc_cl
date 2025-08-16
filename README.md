@@ -28,7 +28,7 @@ Designed for safe and efficient removal of duplicate and junk files across multi
 
 1. Clone the repository:  
    ```
-   git clone https://github.com/yourusername/disk-cleaner.git
+   git clone https://github.com/OMNIPOTENTHAVOC/disk-cleaner.git
    cd disk-cleaner
    ```
 
