@@ -75,4 +75,3 @@ Contributions are welcome! Feel free to fork, open issues, and submit pull reque
 
 - Built using the [`send2trash`](https://pypi.org/project/SendTrash/) package for safe file deletion.
 - Interface inspired by classic Windows styling and usability principles.
-```
