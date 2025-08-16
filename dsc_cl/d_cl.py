@@ -2,10 +2,11 @@ import os
 import shutil
 import time
 import threading
+import hashlib
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk, simpledialog
 from datetime import datetime
-from send2trash import send2trash  # pip install send2trash
+from send2trash import send2trash
 
 BG = "#bfbfbf"
 BTN = "#d9d9d9"
@@ -387,4 +388,5 @@ class DiskCleaner:
 if __name__ == "__main__":
     root = tk.Tk()
     app = DiskCleaner(root)
+
     root.mainloop()
