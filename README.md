@@ -28,8 +28,8 @@ Designed for safe and efficient removal of duplicate and junk files across multi
 
 1. Clone the repository:  
    ```
-   git clone https://github.com/OMNIPOTENTHAVOC/disk-cleaner.git
-   cd disk-cleaner
+   git clone https://github.com/OMNIPOTENTHAVOC/disc_cl.git
+   cd disc_cl
    ```
 
 2. Install dependencies:  
