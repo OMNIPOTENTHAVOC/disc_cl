@@ -1,6 +1,3 @@
-Certainly! Here's the complete README content for your Disk Cleaner project in one block. You can copy this entire text at once into your README.md file:
-
-```markdown
 # Disk Cleaner
 
 A lightweight and user-friendly disk cleaning tool built with Python and Tkinter.  
