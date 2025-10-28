@@ -60,7 +60,7 @@ Designed for safe and efficient removal of duplicate and junk files across multi
 ## Author
 
 Siddhansh Srivastava
-- sri.siddhansh@gmail.com
+- sri.siddhansh04@gmail.com
 - github.com/OMNIPOTENTHAVOC
 
 ---
